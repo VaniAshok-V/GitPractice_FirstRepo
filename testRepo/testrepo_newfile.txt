@@ -1,0 +1,3 @@
+Hi
+Adding text through GIT UI
+Good day
